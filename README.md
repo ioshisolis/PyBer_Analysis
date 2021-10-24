@@ -9,24 +9,19 @@ After completing the first project for the PyBer company our boos V. Isualize ha
 
 ### Ride-Sharing Data 2019
 > ![Fig1](https://user-images.githubusercontent.com/37987602/138576502-1073eb95-1c82-4a99-b40a-a753dcd35305.png)
-
 > The first image displays the numer of drivers in each type of city. Since we have more drivers on Urban areas we get more rides but at a lower price. The Rural rides tend to be more expensive and Suburban rides appear to be more commun and higer in average fare. 
 
 ### Ride, Fare and Driver Count Data 2019
 > ![Fig2](https://user-images.githubusercontent.com/37987602/138576179-2bb51469-116c-462b-939b-3bc8abdf5c9d.png)
+> This chart shows the ride count data which tells us that the number of rides on Urban areas is very good, there seems to a be a very productive driver. 
 
-This chart shows the ride count data which tells us that the number of rides on Urban areas is very good, there seems to a be a very productive driver. 
-
-![Fig3](https://user-images.githubusercontent.com/37987602/138576803-66595e39-4eb1-4a50-aa18-0d16715582ea.png)
-
-This chart shows the ride fare data, this tells us the most expensive rides happened on rural areas. This information is very important because it also shows what could be the most expensive rid:
-
-#### Most Expensive Ride
+> ![Fig3](https://user-images.githubusercontent.com/37987602/138576803-66595e39-4eb1-4a50-aa18-0d16715582ea.png)
+> This chart shows the ride fare data, this tells us the most expensive rides happened on rural areas. This information is very important because it also shows what could be the most expensive rid:
+> #### Most Expensive Ride
  - Rural: over 45 dll 
  - Suburban: 40 dll
  - Urban: 35 dll
-
-#### Most Cheap Ride
+> #### Most Cheap Ride
  - Rural: 20 dll
  - Suburban: Over 23 dll
  - Urban: 15 dll
