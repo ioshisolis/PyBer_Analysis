@@ -1,11 +1,11 @@
 # PyBer_Analysis
 Using Python, Pandas and Matplotlib
-## Overview of the analysis: Explain the purpose of the new analysis.
+## Overview of the analysis:
 
 After completing the first project for the PyBer company our boos V. Isualize has given my team and I a brand-new assignment. Using your Python skills and knowledge of Pandas, you’ll create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, we had to create a multiple-line graph that shows the total weekly fares for each city type. Finally, we created a report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 
-## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+## Results: 
 
 ### Ride-Sharing Data 2019
 > ![Fig1](https://user-images.githubusercontent.com/37987602/138576502-1073eb95-1c82-4a99-b40a-a753dcd35305.png)
@@ -44,7 +44,7 @@ We can see the relationship over a period of time, and discover interesting tren
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/37987602/138576185-1061e1c2-cfed-471a-aad6-c5d2017eeca9.png)
 
 
-## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Summary
 
 > Recomendations 
 > - We can use the box-and-whisker Ride Count Data to identify very productive drivers and reward them for optimal perfomance. 
